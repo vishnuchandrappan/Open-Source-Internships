@@ -1,7 +1,7 @@
 # SOC-Programs
 
 
-| Name                                    | Stipend |
+| Name                                    | Stipend | Timeline
 |-----------------------------------------|-------------|
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes |
 | [Season of KDE](https://season.kde.org) | No      |
