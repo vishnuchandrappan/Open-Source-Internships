@@ -1,8 +1,8 @@
 # SOC-Programs
 
 
-| Name                                    | Stipend | Timeline |
-|-----------------------------------------|-------------|
+| Name                                    | Stipend     | Timeline |
+|-----------------------------------------|-------------|----------|
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes |
 | [Season of KDE](https://season.kde.org) | No      |
 | [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes |
